@@ -13,10 +13,10 @@
   ],
   "dependencies": {
     "async": "^2.6.0",
-    "bfx-facs-base": "git+https://github.com/bitfinexcom/bfx-facs-base.git",
-    "grenache-nodejs-link": "^0.7.9",
-    "grenache-nodejs-base": "^0.7.2",
-    "grenache-nodejs-http": "^0.7.6",
+    "bfx-facs-base": "git+https://github.com/amissine/bfx-facs-base.git",
+    "grenache-nodejs-link": "git+https://github.com/amissine/grenache-nodejs-link.git",
+    "grenache-nodejs-base": "git+https://github.com/amissine/grenache-nodejs-base.git",
+    "grenache-nodejs-http": "git+https://github.com/amissine/grenache-nodejs-http.git",
     "lodash": "^4.17.10"
   },
   "engine": {
